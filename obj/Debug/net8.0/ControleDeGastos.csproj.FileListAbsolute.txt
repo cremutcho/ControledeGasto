@@ -1,0 +1,17 @@
+C:\Users\surfc\ControleDeGastos\bin\Debug\net8.0\ControleDeGastos.exe
+C:\Users\surfc\ControleDeGastos\bin\Debug\net8.0\ControleDeGastos.deps.json
+C:\Users\surfc\ControleDeGastos\bin\Debug\net8.0\ControleDeGastos.runtimeconfig.json
+C:\Users\surfc\ControleDeGastos\bin\Debug\net8.0\ControleDeGastos.dll
+C:\Users\surfc\ControleDeGastos\bin\Debug\net8.0\ControleDeGastos.pdb
+C:\Users\surfc\ControleDeGastos\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\surfc\ControleDeGastos\obj\Debug\net8.0\ControleDeGastos.csproj.AssemblyReference.cache
+C:\Users\surfc\ControleDeGastos\obj\Debug\net8.0\ControleDeGastos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surfc\ControleDeGastos\obj\Debug\net8.0\ControleDeGastos.AssemblyInfoInputs.cache
+C:\Users\surfc\ControleDeGastos\obj\Debug\net8.0\ControleDeGastos.AssemblyInfo.cs
+C:\Users\surfc\ControleDeGastos\obj\Debug\net8.0\ControleDeGastos.csproj.CoreCompileInputs.cache
+C:\Users\surfc\ControleDeGastos\obj\Debug\net8.0\ControleDeGastos.csproj.CopyComplete
+C:\Users\surfc\ControleDeGastos\obj\Debug\net8.0\ControleDeGastos.dll
+C:\Users\surfc\ControleDeGastos\obj\Debug\net8.0\refint\ControleDeGastos.dll
+C:\Users\surfc\ControleDeGastos\obj\Debug\net8.0\ControleDeGastos.pdb
+C:\Users\surfc\ControleDeGastos\obj\Debug\net8.0\ControleDeGastos.genruntimeconfig.cache
+C:\Users\surfc\ControleDeGastos\obj\Debug\net8.0\ref\ControleDeGastos.dll

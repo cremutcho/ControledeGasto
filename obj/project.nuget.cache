@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZeldyTWjbF1oG2HquvUf9PHR8ACOdGs+uagha7WyueF1tvacNY7nJq470Uw4QdvA98wL3Xs1rK6SdyG5rXZm2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\surfc\\ControleDeGastos\\ControleDeGastos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\surfc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

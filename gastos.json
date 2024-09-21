@@ -1,0 +1,26 @@
+[
+  {
+    "Descricao": "comida",
+    "Valor": 200.0,
+    "Categoria": null,
+    "Data": "0001-01-01T00:00:00"
+  },
+  {
+    "Descricao": "gasolina",
+    "Valor": 100.0,
+    "Categoria": null,
+    "Data": "0001-01-01T00:00:00"
+  },
+  {
+    "Descricao": "3",
+    "Valor": 10.0,
+    "Categoria": "Alimentação",
+    "Data": "2024-09-19T22:42:10.403579-03:00"
+  },
+  {
+    "Descricao": "2",
+    "Valor": 20.0,
+    "Categoria": "Alimentação",
+    "Data": "2024-09-19T22:47:43.6875293-03:00"
+  }
+]
